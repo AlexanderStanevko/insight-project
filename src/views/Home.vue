@@ -3,12 +3,12 @@ import { onMounted } from 'vue'
 import { gsap } from 'gsap'
 
 onMounted(() => {
-  gsap.from('.logo-animation', {
-    scale: 0.8,
-    opacity: 0,
-    duration: 1.5,
-    ease: 'power3.out'
-  })
+  // gsap.from('.logo-animation', {
+  //   scale: 0.8,
+  //   opacity: 1,
+  //   duration: 1.5,
+  //   ease: 'power3.out'
+  // })
 
   gsap.from('.title-animation', {
     y: 30,
