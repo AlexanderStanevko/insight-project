@@ -24,7 +24,7 @@ onMounted(() => {
   <div class="min-h-screen flex flex-col items-center justify-center px-4">
     <div class="logo-container mb-8">
       <div class="logo-animation">
-        <img src="/myLogo.svg" alt="Insight Logo" class="w-full h-full" />
+        <img src="/1.jpg" alt="Insight Logo" class="w-full h-full" />
       </div>
     </div>
     
